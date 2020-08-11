@@ -1,4 +1,4 @@
-class AddColumnActiveToStudents < ActiveRecord::Migration[5.0]
+class ActiveColumnStudents < ActiveRecord::Migration[5.0]
   def change
   end
 end
